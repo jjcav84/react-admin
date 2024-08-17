@@ -6,7 +6,7 @@
   "author": "MDBootstrap <support@mdbootstrap.com>",
   "license": "MIT",
   "dependencies": {
-    "google-map-react": "1.1.5",
+    "google-map-react": "1.1.7",
     "mdbreact": "4.24.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
