@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "google-map-react": "1.1.7",
-    "mdbreact": "4.24.0",
+    "mdbreact": "4.27.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-router-dom": "5.1.2",
