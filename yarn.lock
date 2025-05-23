@@ -5398,10 +5398,10 @@ globby@^11.0.4, globby@^11.1.0:
     merge2 "^1.4.1"
     slash "^3.0.0"
 
-google-map-react@1.1.7:
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/google-map-react/-/google-map-react-1.1.7.tgz#381baa7d16273de0e981cf2b8f996fccef2ab4a4"
-  integrity sha512-OWwfvVlJG3aQbDZOezWPzT7b8uqk5iMya5yEfBcfGYBFONna5UYCWZl49/cS0j1DPigtwtN0YCzPKjXMQHOUeA==
+google-map-react@2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/google-map-react/-/google-map-react-2.2.5.tgz#2147fe89099c1c0953a54984a917cf3c4ba426df"
+  integrity sha512-6n4pb4Ckmt3TnvJ5fNPSu2kceIItMrJR413YfX89tNq95nTipFwxL2lmeR+IHFl1cXzKpFvQ4leXzJza0LlapA==
   dependencies:
     "@googlemaps/js-api-loader" "^1.13.8"
     "@mapbox/point-geometry" "^0.1.0"
